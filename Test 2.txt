@@ -1,0 +1,62 @@
+Test with an already sorted array:
+[1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+
+Algorithm 1
+        Space: 108 bytes
+        Time : 22100 nanoseconds
+
+Algorithm 2:
+        Space: 56 bytes
+        Time : 82400 nanoseconds
+
+Algorithm 3:
+        Space: 56 bytes
+        Time : 21199 nanoseconds
+
+
+Test with a reversed array:
+[10, 9, 8, 7, 6, 5, 4, 3, 2, 1]
+
+Algorithm 1
+        Space: 108 bytes
+        Time : 3500 nanoseconds
+
+Algorithm 2:
+        Space: 56 bytes
+        Time : 1999 nanoseconds
+
+Algorithm 3:
+        Space: 56 bytes
+        Time : 2200 nanoseconds
+
+
+
+Test with an array of identical elements:
+[5, 5, 5, 5, 5, 5, 5, 5, 5, 5]
+Algorithm 1
+        Space: 108 bytes
+        Time : 2399 nanoseconds
+
+Algorithm 2:
+        Space: 56 bytes
+        Time : 1600 nanoseconds
+
+Algorithm 3:
+        Space: 56 bytes
+        Time : 1600 nanoseconds
+
+
+Test with varying input sizes:
+[8, 1, 5, 9, 2, 6, 7, 3, 10, 4]
+
+Algorithm 1
+        Space: 108 bytes
+        Time : 2700 nanoseconds
+
+Algorithm 2:
+        Space: 56 bytes
+        Time : 2101 nanoseconds
+
+Algorithm 3:
+        Space: 56 bytes
+        Time : 13100 nanoseconds
